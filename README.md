@@ -173,7 +173,32 @@ Normalised PostgreSQL tables for:
 ### **✔ Enterprise-Level Workflow Engineering**
 Visa and Accounting modules were designed to match real business processes.
 
+
+Clear separation of modules ensures maintainability and scalability.
+
 ---
 
-## 🔹 Repository Structure
+## 🔹 What This Repository Is For
+
+This repository serves as:
+- A **technical portfolio piece** showcasing backend engineering depth  
+- A **reference document** for collaborative work  
+- A **CV-ready demonstration** of multi-tenant system design  
+- A foundation for launching a real B2B visa service  
+
+---
+
+## 🔹 Author
+
+**Amir Tabatabaei**  
+ML/AI Engineer & Backend Developer  
+LinkedIn: https://www.linkedin.com/in/amirtabatabaei10/  
+
+---
+
+## 🔹 License
+
+This project is currently private and proprietary.  
+Contact the author regarding access or collaboration.
+~~~
 
